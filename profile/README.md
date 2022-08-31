@@ -12,3 +12,12 @@ MoveFuns DAO is a DAO for Move developers, with the main goal of uniting the dev
 
 * Across multiple Move chains JS SDK
 * More developer tools
+
+
+## Community
+
+- [Move Discord](https://discord.gg/f4JSrK8T2t)
+- [Starcoin Discord](https://discord.gg/starcoin)
+- [Aptos Discord](https://discord.gg/aptoslabs)
+- [Sui Discord](https://discord.gg/Sui)
+- [Starcoin&Move Contributor Telegram group](https://t.me/starcoin_contributor)
