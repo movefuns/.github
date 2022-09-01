@@ -6,7 +6,8 @@
 MoveFuns DAO is a DAO for Move developers, with the main goal of uniting the developer community to build a across multiple Move chains ecosystem.
 
 * [movefuns](https://github.com/movefuns/movefuns): The Move commons library for support multiple Move chains.
-
+* [web3startrek](https://github.com/movefuns/web3startrek): LearnToEarn for Move and Web3 learner.
+* [apps](https://github.com/movefuns/apps): A collection of Move echosystem DApp tools.
 
 ## Roadmap
 
@@ -20,4 +21,6 @@ MoveFuns DAO is a DAO for Move developers, with the main goal of uniting the dev
 - [Starcoin Discord](https://discord.gg/starcoin)
 - [Aptos Discord](https://discord.gg/aptoslabs)
 - [Sui Discord](https://discord.gg/Sui)
+- [0L Discord](https://discord.gg/0lnetwork)
+- [MoveMove Discord](https://discord.gg/nu24PcqCGW)
 - [Starcoin&Move Contributor Telegram group](https://t.me/starcoin_contributor)
