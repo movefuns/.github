@@ -18,10 +18,11 @@ MoveFuns DAO is a DAO for Move developers, with the main goal of uniting the dev
 
 ## Community
 
+- [MoveFunsDAO Telegram](https://t.me/movefunsdao)
 - [Move Discord](https://discord.gg/f4JSrK8T2t)
 - [Starcoin Discord](https://discord.gg/starcoin)
 - [Aptos Discord](https://discord.gg/aptoslabs)
 - [Sui Discord](https://discord.gg/Sui)
 - [0L Discord](https://discord.gg/0lnetwork)
 - [MoveMove Discord](https://discord.gg/nu24PcqCGW)
-- [Starcoin&Move Contributor Telegram group](https://t.me/starcoin_contributor)
+- [Starcoin&Move Contributor Telegram](https://t.me/starcoin_contributor)
