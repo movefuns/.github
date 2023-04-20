@@ -6,6 +6,7 @@
 MoveFuns DAO is a DAO for Move developers, with the main goal of uniting the developer community to build a across multiple Move chains ecosystem.
 
 * [movefuns.org](https://movefuns.org/)
+* [notion.movefuns.org](https://notion.movefuns.org/)
 * [wiki](https://movefuns.atlassian.net/wiki/spaces/MOVEFUNS/overview): Join and Cooperate for Move influence and events. 
 * [movefuns](https://github.com/movefuns/movefuns): The Move commons library for supporting multiple Move chains.
 * [web3startrek](https://github.com/movefuns/web3startrek): LearnToEarn for Move and Web3 learner.
