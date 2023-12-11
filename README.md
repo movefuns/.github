@@ -1,5 +1,4 @@
-## MoveFuns DAO 👋
-
+# MoveFuns DAO 👋
 
 **Writing Move funs and makes fun!**
 
